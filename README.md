@@ -1,4 +1,7 @@
 # cml-libs-versions-pom
+
+[![](https://jitpack.io/v/xonixx/cml-libs-versions-pom.svg)](https://jitpack.io/#xonixx/cml-libs-versions-pom)
+
 Import scope pom.xml that captures actual CML libs versions
 
 ## Usage
