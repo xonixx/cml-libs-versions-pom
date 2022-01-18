@@ -10,7 +10,7 @@
 
     <properties>
         <java-utils.version>v0.9.1</java-utils.version>
-        <spring-web-requests-logging.version>v0.9.1</spring-web-requests-logging.version>
+        <spring-web-requests-logging.version>v0.9.2</spring-web-requests-logging.version>
         <hibernate-profiling-interceptor.version>v0.9.2</hibernate-profiling-interceptor.version>
         <java-simple-profiling.version>v0.9</java-simple-profiling.version>
     </properties>

@@ -3,6 +3,12 @@
 [![](https://jitpack.io/v/xonixx/cml-libs-versions-pom.svg)](https://jitpack.io/#xonixx/cml-libs-versions-pom)
 
 Import scope pom.xml that captures actual CML libs versions
+  
+This pom.xml captures versions for the following libs:
+- [xonixx/java-utils](https://github.com/xonixx/java-utils)
+- [xonixx/spring-web-requests-logging](https://github.com/xonixx/spring-web-requests-logging)
+- [xonixx/hibernate-profiling-interceptor](https://github.com/xonixx/hibernate-profiling-interceptor)
+- [xonixx/java-simple-profiling](https://github.com/xonixx/java-simple-profiling)
 
 ## Usage
 
