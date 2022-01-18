@@ -20,7 +20,7 @@ In pom.xml:
         <dependency>
             <groupId>com.github.xonixx</groupId>
             <artifactId>cml-libs-versions-pom</artifactId>
-            <version>v0.1.0</version>
+            <version>v0.1.1</version>
             <type>pom</type>
             <scope>import</scope>
         </dependency>
